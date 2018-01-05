@@ -1,0 +1,37 @@
+import java.util.Scanner;
+public class CoolLogo2535 {
+    public static void main(String args[]) {
+         Scanner sc = new Scanner(System.in);
+         int i = sc.nextInt();
+         System.out.println("Please enter confirmation code to start the CoolLogo graphical system.");
+         if (i == 2635){
+           int r;
+           System.out.println("How many times do you want the logo displayed?");
+            Scanner d = new Scanner(System.in);
+            int r = d.nextInt();
+            logo(r);
+         }
+         else{
+           main();
+         }
+    }
+    
+     public static void logo(int r) {
+       if (r > 0){
+         System.out.println("      /-----\     /-----\     /-----\     |------ ");
+         System.out.println("     /       \   /       \   /            |       ");
+         System.out.println("              / /-----\      \            \       ");
+         System.out.println("             / |       |      |------      \___   ");
+         System.out.println("        ____/  |       |      /                 \ ");
+         System.out.println("       /       \       /     /           |      / ");
+         System.out.println("      /______   \_____/      \------/     \____/  ");
+         System.out.println("    Go Lake Moster Robotics of Lake Oswego, Oregon");
+         r = r - 1;
+         logo(r);
+       }
+       else {
+         System.out.println("Requested number of outputs reached. Resetting program.");
+         main();
+       }
+     }
+}
