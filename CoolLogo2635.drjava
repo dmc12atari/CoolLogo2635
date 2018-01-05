@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="true" main="main" manifest="" root="" work="">
+    <createjar file="CoolLogo2635" flags="12"/>
+    <source>
+      <file active="true" name="main.java" package="" timestamp="05-Jan-2018 11:16:44">
+        <select from="115" to="115"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CoolLogo2635.java" package="" timestamp="05-Jan-2018 11:16:30">
+        <select from="115" to="115"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

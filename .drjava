@@ -1,0 +1,18 @@
+#DrJava configuration file
+#Fri Jan 05 11:24:49 PST 2018
+key.delete.next = [shift DELETE]
+key.delete.previous = [shift BACK_SPACE]
+save.before.compile = true
+recent.files = [C:\\Users\\stens30983.LO.002\\main.java,C:\\Users\\stens30983.LO.002\\CoolLogo2635.java,C:\\Users\\stens30983.LO.002\\2635CoolLogo.java]
+recent.projects = [C:\\Users\\stens30983.LO.002\\CoolLogo2635.drjava]
+window.height = 1000
+window.width = 1296
+window.x = -8
+window.y = -8
+window.state = 6
+doc.list.width = 174
+last.dir = C:\\Users\\stens30983.LO.002\\main.java
+last.interactions.dir = C:\\Users\\stens30983.LO.002
+tabbedpanes.state = 640 512 700 400
+dialog.jaroptions.state = 431 347
+file.ext.registration = always

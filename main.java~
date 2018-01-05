@@ -1,0 +1,7 @@
+package CoolLogo2635;
+import CoolLogo2635;
+public class main extends CoolLogo2635 {
+    public static void main(String args[]) {
+        recurse();
+    }
+}

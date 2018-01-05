@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class CoolLogo2635 {
     public static void main(String args[]) {
